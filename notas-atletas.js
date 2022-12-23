@@ -18,4 +18,8 @@ let atletas = [
 ];
 
 console.log(atletas);
+<<<<<<< HEAD
 
+=======
+console.log("clone")
+>>>>>>> 7a45579952f6a06f39f74eaafdc6e8fae30fb5f5
