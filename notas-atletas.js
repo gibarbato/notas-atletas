@@ -18,3 +18,4 @@ let atletas = [
 ];
 
 console.log(atletas);
+
